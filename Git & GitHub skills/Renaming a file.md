@@ -1,1 +1,0 @@
-The purpose of this document is to demonstrate how I rename and delete a file using Git.
